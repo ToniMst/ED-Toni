@@ -27,9 +27,9 @@ public class Ejercicio01 {
             boolean primo = esPrimo(i);
             
               if (primo) { 
-            System.out.println( i + " si es primo ");
+            System.out.println( i + "PRIMO ");
         }else{
-                  System.out.println(i + " no es primo");
+                  System.out.println(i + "NO PRIMO");
               }
         
       
